@@ -1,0 +1,6 @@
+{
+  "name": "MALLU QUIZ",
+  "description": "A Kerala-focused daily quiz app in Malayalam covering important local and international days, featuring custom timers, detailed post-quiz answer reviews, a interactive Malayalam calendar, and search functionality.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
